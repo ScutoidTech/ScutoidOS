@@ -1,2 +1,1 @@
-# ScutoidOS
-Modified Scutoid OS for modification 
+# ScutoidOS 1 New features
