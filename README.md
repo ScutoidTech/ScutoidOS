@@ -1,4 +1,1 @@
-# ScutoidOS 1 New features
-
-+ Physical Hardware support
-+ Prints Text
+Inlnx/ScutoidOS. This only shows daily driver versions.
